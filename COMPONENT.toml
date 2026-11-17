@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-upgrade-info"
-description = "SigmaOS subsystem component for upgrade-info"
+description = "Release upgrade compatibility metadata"
 version = "0.1.0"
 tier = 3
 
